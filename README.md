@@ -1,2 +1,6 @@
-# aws_basic_infra
-This document provides step-by-step instructions for setting up a basic AWS infrastructure including a custom VPC, EC2 instance, S3 bucket, and Lambda function.
+# AWS-projects
+### Overview
+
+Cloud Computing is the on-demand availability of computing services especially servers, data storage, networking and computing power without direct active management by the user. It is renting resources on another company's computers which is only paid for what is used.
+
+In my GitHub repository I will be demonstrating some projects that I have successfully implemented and to excel my experience related working with AWS products and services. 
